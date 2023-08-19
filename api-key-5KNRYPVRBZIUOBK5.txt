@@ -1,0 +1,12 @@
+=== Confluent Cloud API key: lsrc-3nm1ro ===
+Environment configuration
+Server details
+
+API key:
+5KNRYPVRBZIUOBK5
+
+API secret:
+IHuds6Fg9Wtr/5spS5XKjouTO9o9Ri+S9D6YSpH0ThGHL0oEpbQlDCMtZnnYFjaf
+
+MongoDb configuration:
+mongodb+srv://rohanpatankar926:1234@sensorkafka.w1pvkpx.mongodb.net/

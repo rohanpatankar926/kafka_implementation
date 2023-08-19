@@ -1,0 +1,12 @@
+=== Confluent Cloud API key: lkc-o2jg29 ===
+cluster configuration
+Server details
+
+API key:
+RTYBR7QOKEOD7PLE
+
+API secret:
+af5omPV489wWfFNxKEY+lsL4zqfSYKYAX/Asa0IuiSOlXjo1bF/CTgN76blWeY+K
+
+Bootstrap server:
+pkc-p11xm.us-east-1.aws.confluent.cloud:9092
