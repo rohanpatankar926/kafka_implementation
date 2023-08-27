@@ -7,7 +7,7 @@ class Generic:
             setattr(self,k,v)
 
     @classmethod
-    def dict_to_obj(data:dict):
+    def dict_to_obj(cls,data:dict,ctx):
         return Generic(record=data)
     
     def to_dict(self):

@@ -23,6 +23,6 @@ class MongodbOps:
         self.client[self.database_name][collection_name].insert_one(records)
 
 
-data=[{"name":"rohan"},{"name":"tushar"}]
+# data=[{"name":"rohan"},{"name":"tushar"}]
 
-MongodbOps().insert_many("single_test",data)
+# MongodbOps().insert_many("single_test",data)

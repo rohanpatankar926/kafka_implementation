@@ -35,4 +35,3 @@ def produce_data_using_file(topic,filepath):
                              value=json_seriallizer(instance, SerializationContext(topic, MessageField.VALUE)),
                              on_delivery=delivery_report)
         producer.flush()
-# produce_data_using_file(topic=None,filepath=FILE_PATH)
