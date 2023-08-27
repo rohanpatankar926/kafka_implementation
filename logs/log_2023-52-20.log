@@ -1,1 +1,0 @@
-INFO:root:Delivery of the message is unsuccessful b'1f7d3a98-875e-4a8e-9722-cb4e6a7d1972' KafkaError{code=UNKNOWN_TOPIC_OR_PART,val=3,str="Broker: Unknown topic or partition"}
