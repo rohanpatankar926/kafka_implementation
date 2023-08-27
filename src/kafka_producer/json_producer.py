@@ -2,7 +2,8 @@ from uuid import uuid4
 import sys,os
 sys.path.append(os.getcwd())
 from src.kafka_config import sasl_conf, schema_registry_config
-from src.kafka_logger.logger import logging
+
+import logging
 from confluent_kafka import Producer
 from confluent_kafka.serialization import StringSerializer, SerializationContext, MessageField
 from confluent_kafka.schema_registry import SchemaRegistryClient

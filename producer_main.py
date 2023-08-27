@@ -1,4 +1,8 @@
+import sys,os
+sys.path.append(os.getcwd())
+
 from src.kafka_producer.json_producer import produce_data_using_file
+
 import os
 
 if __name__=="__main__":
